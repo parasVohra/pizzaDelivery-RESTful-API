@@ -6,7 +6,7 @@
 const server = require("./lib/server");
 
 // Declare app
-let app = {};
+const app = {};
 
 // init function
 app.init = () => {
