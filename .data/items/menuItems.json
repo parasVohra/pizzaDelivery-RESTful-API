@@ -1,0 +1,34 @@
+{
+  "menuItems": [
+    {
+      "id": "1001",
+      "itemName": "Small Pizza",
+      "price": "14"
+    },
+    {
+      "id": "1002",
+      "itemName": "Medium Pizza",
+      "price": "16"
+    },
+    {
+      "id": "1003",
+      "itemName": "Large Pizza",
+      "price": "20"
+    },
+    {
+      "id": "1004",
+      "itemName": " BBQ Wings",
+      "price": "12"
+    },
+    {
+      "id": "1005",
+      "itemName": " Garlic Bread",
+      "price": "8"
+    },
+    {
+      "id": "1006",
+      "itemName": "Browny",
+      "price": "12"
+    }
+  ]
+}
